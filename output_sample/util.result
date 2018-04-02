@@ -1,0 +1,6 @@
+# テストケース名:テスト名:テスト開始日時:テスト終了日時:結果:エラー時のメッセージ
+util:test_slist_create:20080904020545:20080904020545:success:
+util:test_slist_remove:20080904020545:20080904020545:success:
+util:test_slist_append:20080904020545:20080904020545:success:
+util:test_slist_search:20080904020545:20080904020545:success:
+util:test_xmalloc_xfree:20080904020545:20080904020545:success:

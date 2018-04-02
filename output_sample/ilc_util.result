@@ -1,0 +1,15 @@
+# テストケース名:テスト名:テスト開始日時:テスト終了日時:結果:エラー時のメッセージ
+ilc_util:test_ilcfunc_create:20080904020546:20080904020546:success:
+ilc_util:test_ilcfunc_init:20080904020546:20080904020546:success:
+ilc_util:test_ilcfunc_append:20080904020546:20080904020546:success:
+ilc_util:test_ilcfunc_search:20080904020546:20080904020546:success:
+ilc_util:test_ilcfunc_remove:20080904020546:20080904020546:success:
+ilc_util:test_ilccomment_create:20080904020546:20080904020546:success:
+ilc_util:test_ilccomment_init:20080904020546:20080904020546:success:
+ilc_util:test_ilccomment_append:20080904020546:20080904020546:success:
+ilc_util:test_ilccomment_remove:20080904020546:20080904020546:success:
+ilc_util:test_ilc_init:20080904020546:20080904020546:success:
+ilc_util:test_ilc_end:20080904020546:20080904020546:success:
+ilc_util:test_ilc_append_coverage:20080904020546:20080904020546:success:
+ilc_util:test_ilc_put_coverage:20080904020546:20080904020546:success:
+ilc_util:test_ilc2ilcdata:20080904020546:20080904020546:success:
